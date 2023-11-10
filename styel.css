@@ -1,0 +1,59 @@
+/* body{
+    background-color: rgb(187, 210, 241);
+} */
+
+.JAVASCRIPT{
+
+text-align: center;
+
+}
+.Click{
+cursor: pointer;
+
+
+}
+.iphone11{
+
+
+}
+.phonesimg{
+display: flex;
+margin: auto;
+
+}
+.iphone12{
+margin-left: 40px;
+
+
+}
+.phonesimg img{
+cursor: pointer;
+
+
+}
+.delete button{
+    cursor: pointer;
+
+
+}
+.piccar{
+margin-left: 100px;
+
+}
+.carpictuer{
+cursor: pointer;
+
+}
+.main input{
+border: none;
+/* width: 30px;
+font-size: 50px; */
+}
+.main span{
+cursor: pointer;
+font-size: 50px;
+}
+.main{
+    margin-left: 50px;
+    
+}
